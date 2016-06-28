@@ -3,51 +3,63 @@
 	[
 		{
 			"author": "FlatEdge",
-		  	"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper1.png",
-		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb1.png",
+		  	"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/1.jpg",
+		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail.png",
 			"name": "wallpaper1"
 		},
 		{
 			"author": "FlatEdge",
-		  "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper2.png",
-		  "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb2.png",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/2.jpg",
+		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail2.png",
 			"name": "wallpaper2"
 		},
 		{
 			"author": "FlatEdge",
-		  "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper3.png",
-		  "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb3.png",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/3.jpg",
+		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail3.png",
 			"name": "wallpaper3"
 		},
 		{
 			"author": "FlatEdge",
-		  "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper4.png",
-		  "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb4.png",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/4.jpg",
+		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail4.png",
 			"name": "wallpaper4"
 		},
-	  {
-		"author": "FlatEdge",
-		"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper5.png",
-		"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb5.png",
-		"name": "wallpaper5"
-	  },
-	  {
-		"author": "FlatEdge",
-		"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper6.png",
-		"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb6.png",
-		"name": "wallpaper6"
-	  },
-	  {
-		"author": "FlatEdge",
-		"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper7.png",
-		"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb7.png",
-		"name": "wallpaper7"
-	  },
-	  {
-		"author": "FlatEdge",
-		"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper8.png",
-		"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper_thumb8.png",
-		"name": "wallpaper8"
-	  }
+	    {
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/5.jpg",
+		    "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail5.png",
+		     "name": "wallpaper5"
+	    },
+	    {
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/6.jpg",
+		    "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail6.png",
+		    "name": "wallpaper6"
+	    },
+	    {
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/7.jpg",
+		  	"thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail7.png",
+		    "name": "wallpaper7"
+	    },
+	    {
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/8.jpg",
+		    "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail8.png",
+		    "name": "wallpaper8"
+	    },
+		{
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/9.jpg",
+		    "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail9.png",
+		    "name": "wallpaper9"
+	    },
+	    {
+		    "author": "FlatEdge",
+		    "url": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/10.jpg",
+		    "thumbnail": "https://raw.githubusercontent.com/Sekhar1418/CrispyDarkWalls/master/thumbnail10.png",
+		    "name": "wallpaper10"
+	    }
 	]
 }
